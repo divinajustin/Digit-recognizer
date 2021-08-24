@@ -1,3 +1,5 @@
 # Digit-recognizer
 Day 2- 66daysdata
-Digit recogizer using MNIST dataset
+
+
+Digit recognizer using MNIST dataset
